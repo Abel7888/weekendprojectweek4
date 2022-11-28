@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "week4prject",
+            "connectString": "postgres://uonkzzur:8L7OJ0OxX7KSDqhdd5x7jm4RsgOvLo9r@peanut.db.elephantsql.com/uonkzzur"
+        }
+    ]
+}
